@@ -1,0 +1,12 @@
+.star-button {
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+    margin: 5px;
+    padding: 0;
+}
+
+.star-icon {
+    width: 24px;
+    height: 24px;
+}
